@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class DisplayElement {
+public interface DisplayElement {
+    public void display();
 }
